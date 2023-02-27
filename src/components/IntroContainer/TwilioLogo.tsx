@@ -9,8 +9,8 @@ export default function TwilioLogo(props: SVGProps<SVGSVGElement>) {
       src="Byggfix.png"
       style={{
         position: 'fixed',
-        top: 5,
-        left: 5,
+        top: 15,
+        left: 10,
       }}
       alt="Byggfix Marketplace"
     />
