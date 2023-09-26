@@ -108,7 +108,7 @@ const IntroContainer = (props: IntroContainerProps) => {
             <div className={classes.logoContainer}>
               <VideoLogo />
               <Typography variant="h6" className={classes.title}>
-                Byggfix Live Ecommerce
+                Live Ecommerce
               </Typography>
             </div>
           </div>
